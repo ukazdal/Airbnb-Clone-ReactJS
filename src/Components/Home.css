@@ -1,0 +1,23 @@
+.home__section {
+  display: flex;
+  padding: 30px;
+}
+
+.home__info {
+  background: url("https://a0.muscache.com/im/pictures/eff28e1d-51c4-49ff-8266-68d6929ea1ec.jpg?im_w=1680")
+    center center;
+  height: 67vh;
+  position: relative;
+}
+
+.home__info > h1 {
+  padding-top: 200px;
+  color: white;
+  padding-left: 50px;
+}
+
+.home__info > p {
+  pad: 220px;
+  color: white;
+  padding-left: 50px;
+}
