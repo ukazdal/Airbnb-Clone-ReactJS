@@ -32,7 +32,7 @@
   padding: 10px;
   outline-width: 0;
   border-radius: 999px;
-  width: 350px;
+  /* width: 350px; */
 }
 .header__serchIcon {
   color: #ff7779;

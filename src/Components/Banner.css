@@ -2,6 +2,7 @@
   background: url("https://a0.muscache.com/im/pictures/166791ff-bc82-4b88-ba3d-49be1d462dce.jpg?im_w=2560")
     center center;
   height: 90vh;
+  width: 100%;
   position: relative;
 }
 
@@ -11,7 +12,7 @@
   padding-left: 120px;
   padding-right: 50px;
   padding-bottom: 40px;
-  width: 250px;
+  /* width: 250px; */
 }
 .banner__searchButton {
   background-color: white !important;
